@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Shojumaru&display=swap');
+
+body{
+    
+    background: black;
+    text-align: center;
+    color: aliceblue;
+    background-position: center top;
+    background-size: 100% auto; 
+    font-family: 'Shojumaru', cursive;
+}
+
+hr.style1{
+	border-top: 1px solid #8c8b8b;
+}
+p{
+    color: #d2dfa5;
+}
+
+#dic{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    display: inline;
+    background-color: aliceblue;
+}
+.navbar-brand {
+    padding: 0 15px;
+    height: 80px;
+    line-height: 80px;
+  }
